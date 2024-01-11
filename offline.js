@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1704978431,
+	"version": 1705009917,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -34,6 +34,8 @@
 		"images/rightflash-sheet0.png",
 		"images/jump-sheet0.png",
 		"images/bulletbutton-sheet0.png",
+		"images/lock-sheet0.png",
+		"images/sprite-sheet0.png",
 		"076371111-misc-game-sounds-38-big-charac.ogg",
 		"167137714-cartoon-cute-character-yelling.ogg",
 		"cartoon-jump-6462.ogg",
